@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://dogubox.com
+
+# Sitemaps
+Sitemap: https://dogubox.com/sitemap.xml
